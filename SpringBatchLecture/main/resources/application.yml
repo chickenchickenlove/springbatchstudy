@@ -1,0 +1,36 @@
+spring:
+  profiles:
+    active: mysql
+
+---
+spring:
+  config:
+    activate:
+      on-profile: local
+
+  datasource:
+    hikari:
+      jdbc-url: jdbc:h2:mem:testdb;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=FALSE
+      username: sa
+      password:
+      driver-class-name: org.h2.Driver
+  batch:
+    jdbc:
+      initialize-schema: embedded
+---
+spring:
+  config:
+    activate:
+      on-profile: mysql
+
+  datasource:
+    hikari:
+      jdbc-url: jdbc:mysql://localhost:3306/springbatch?useUnicode=true&characterEncdoing=utf8
+      username: springbatch
+      password:
+      driver-class-name: com.mysql.cj.jdbc.Driver
+  batch:
+#    job:
+#      enabled: false #스프링부트가 뜰 때, Batch Job을 자동으로 실행하는지 여주
+    jdbc:
+      initialize-schema: always
