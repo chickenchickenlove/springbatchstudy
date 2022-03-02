@@ -6,3 +6,6 @@
 + (강의) 스프링 배치 개요 및 아키텍쳐
 + (강의) 스프링 배치 시작(JOB, STEP, TASKLET 실행 / DB 스키마 생성 및 이해 / MYSQL + H2 내장 DB 사용해 연결)
 + (강의) 스프링 배치 도메인(JOB, JOB INSTANCE, JOB PARAMETER, JOB EXEUCTION)
+
+## 22.03.02
++ (강의) 스프링 배치 도메인(STEP, STEP EXECUTION) 
