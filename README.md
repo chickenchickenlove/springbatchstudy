@@ -16,3 +16,4 @@
 
 ## 22.03.04
 + (강의) 스프링 배치 도메인(JobReposiotry, JobLauncher) 
++ (강의) 스프링 배치 실행 - JOB(배치 초기화 설정, JobBuilderFactory, SimpleJob 개념 및 API 소개) 
