@@ -21,3 +21,6 @@
 + (정리) 스프링 배치 Job 생성 간단 정리 (https://ojt90902.tistory.com/761)
 + (정리) 스프링 배치 DB 스키마 생성 간단 정리 (https://ojt90902.tistory.com/762)
 + (정리) 스프링 배치 DB 스키마 테이블 관련 내용 간단 정리 (https://ojt90902.tistory.com/763)
+
+## 22.03.05
++ (강의) 스프링 배치 실행 - JOB(start / next / validator / preventRestart / incremneter / 아키텍쳐) 
