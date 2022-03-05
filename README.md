@@ -24,3 +24,4 @@
 
 ## 22.03.05
 + (강의) 스프링 배치 실행 - JOB(start / next / validator / preventRestart / incremneter / 아키텍쳐) 
++ (정리) 스프링 배치 Job Validator 관련 정리(https://ojt90902.tistory.com/767)
