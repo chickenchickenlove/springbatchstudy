@@ -28,3 +28,8 @@
 + (정리) 스프링 배치 Job preventRestart 관련 정리(https://ojt90902.tistory.com/768)
 + (정리) 스프링 배치 Job의 구조(https://ojt90902.tistory.com/769)
 + (강의) 스프링 배치 실행 - Step(StepBuilderFactory, TaskletStep 개념 및 API 소개, tasklet, stratlimit, allowStartIfComplete(), TaskletStep 아키텍쳐)
+
+
+## 22.03.06
++ (정리) 스프링 배치 StepBuilderFactory 정리(https://ojt90902.tistory.com/771)
++ (강의) 스프링 배치 Job Incrementer 정리(https://ojt90902.tistory.com/770)
