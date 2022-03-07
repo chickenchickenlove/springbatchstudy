@@ -35,4 +35,6 @@
 + (강의) 스프링 배치 Job Incrementer 정리(https://ojt90902.tistory.com/770)
 
 ## 22.03.07
-+ (정리) 스프링 배치 StepBuilderFactory 정리(https://ojt90902.tistory.com/772)
++ (정리) 스프링 배치 TaskLetStep 관련 정리(https://ojt90902.tistory.com/772)
++ (정리) 스프링 배치 TaskLetStep의 StartLimit Api 정리(https://ojt90902.tistory.com/773)
+
