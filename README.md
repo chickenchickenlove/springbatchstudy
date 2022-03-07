@@ -40,3 +40,6 @@
 + (정리) 스프링 배치 TaskLetStep의 allowStartIfComplete 정리(https://ojt90902.tistory.com/774)
 + (정리) 스프링 배치 도메인 JobRepository 정리(https://ojt90902.tistory.com/775)
 
+## 22.03.07
++ (강의) 스프링 배치 Chunk 수강 
+
