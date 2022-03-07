@@ -33,3 +33,6 @@
 ## 22.03.06
 + (정리) 스프링 배치 StepBuilderFactory 정리(https://ojt90902.tistory.com/771)
 + (강의) 스프링 배치 Job Incrementer 정리(https://ojt90902.tistory.com/770)
+
+## 22.03.07
++ (정리) 스프링 배치 StepBuilderFactory 정리(https://ojt90902.tistory.com/772)
