@@ -37,4 +37,5 @@
 ## 22.03.07
 + (정리) 스프링 배치 TaskLetStep 관련 정리(https://ojt90902.tistory.com/772)
 + (정리) 스프링 배치 TaskLetStep의 StartLimit Api 정리(https://ojt90902.tistory.com/773)
++ (정리) 스프링 배치 TaskLetStep의 allowStartIfComplete 정리(https://ojt90902.tistory.com/774)
 
