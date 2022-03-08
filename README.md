@@ -48,4 +48,5 @@
 + (강의) 스프링 배치 ItemStream 수강
 + (강의) 스프링 배치 Chunk Process 
 + (정리) 스프링 배치 Chunk 개념 정리(https://ojt90902.tistory.com/776)
++ (정리) 스프링 배치 ChunkTaskLet / ChunkProcessor / ChunkProvider 개념 정리(https://ojt90902.tistory.com/777)
 
