@@ -40,6 +40,11 @@
 + (정리) 스프링 배치 TaskLetStep의 allowStartIfComplete 정리(https://ojt90902.tistory.com/774)
 + (정리) 스프링 배치 도메인 JobRepository 정리(https://ojt90902.tistory.com/775)
 
-## 22.03.07
+## 22.03.08
 + (강의) 스프링 배치 Chunk 수강 
++ (강의) 스프링 배치 ChunkOrientedTaskLet - 개념 및 API 소개 수강 
++ (강의) 스프링 배치 ChunkOrientedTaskLet - ChunkProvider / ChunkProcessor 수강
++ (강의) 스프링 배치 ItemReader / ItemWriter / ItemProcessor 이해 수강
++ (강의) 스프링 배치 ItemStream 수강
++ (강의) 스프링 배치 Chunk Process 
 
