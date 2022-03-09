@@ -53,3 +53,4 @@
 
 ## 22.03.09
 + (정리) 스프링 배치 Chunk ItemReader / ItemWriter / ItemProcessor (https://ojt90902.tistory.com/778)
++ (정리) 스프링 배치 ChunkOrientedStep 아키텍쳐  (https://ojt90902.tistory.com/779)
