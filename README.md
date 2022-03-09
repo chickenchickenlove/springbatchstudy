@@ -55,3 +55,4 @@
 + (정리) 스프링 배치 Chunk ItemReader / ItemWriter / ItemProcessor (https://ojt90902.tistory.com/778)
 + (정리) 스프링 배치 ChunkOrientedStep 아키텍쳐  (https://ojt90902.tistory.com/779)
 + (정리) 스프링 배치 DB ItemReader → Cursor Based / Paging Based 개념 정리 (https://ojt90902.tistory.com/780)
++ (정리) 스프링 배치 Job 도메인 이해 (https://ojt90902.tistory.com/781)
