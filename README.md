@@ -57,3 +57,17 @@
 + (정리) 스프링 배치 DB ItemReader → Cursor Based / Paging Based 개념 정리 (https://ojt90902.tistory.com/780)
 + (정리) 스프링 배치 Job 도메인 이해 (https://ojt90902.tistory.com/781)
 + (정리) 스프링 배치 Step 도메인 이해 (https://ojt90902.tistory.com/782)
+
+
+## 22.03.09
++ (강의) 스프링 배치 JdbcCursorItemReader 강의 수강
++ (강의) 스프링 배치 JPaCursorItemReader 강의 수강
++ (강의) 스프링 배치 JdbcPagingItemReader 강의 수강
++ (강의) 스프링 배치 JpaPagingItemReader 강의 수강
++ (강의) 스프링 배치 ItemReaderAdapter 강의 수강
++ (강의) 스프링 배치 JdbcBatchItemReader 강의 수강
++ (강의) 스프링 배치 JpaBatchItemReader 강의 수강
++ (강의) 스프링 배치 ItemWriterAdapter 강의 수강
++ (강의) 스프링 배치 CompositionProcessor 강의 수강
++ (강의) 스프링 배치 ClassifierCompositeItemProcessor 강의 수강
++ (강의) 스프링 배치 Repeat 강의 수강
