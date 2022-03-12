@@ -72,9 +72,12 @@
 + (강의) 스프링 배치 ClassifierCompositeItemProcessor 강의 수강
 + (강의) 스프링 배치 Repeat 강의 수강
 
-## 22.03.10
+## 22.03.11
 + (강의) 스프링 배치 반복 및 오류 제어 FaultTolerant
 + (강의) 스프링 배치 반복 및 오류 제어 Skip
 + (강의) 스프링 배치 반복 및 오류 제어 Retry
 + (강의) 스프링 배치 반복 및 오류 제어 Skip + Retry 아키텍쳐
 + (강의) 스프링 배치 반복 및 오류 제어 AsynItemProcessor / AsyncitemWriter
+
+## 22.03.11
++ (정리) 스프링 배치 JdbcCursorItemReader 정리 (https://ojt90902.tistory.com/783)
