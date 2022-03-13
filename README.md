@@ -81,3 +81,6 @@
 
 ## 22.03.11
 + (정리) 스프링 배치 JdbcCursorItemReader 정리 (https://ojt90902.tistory.com/783)
+
+## 22.03.12
++ (정리) 스프링 배치 JdbcCursorItemReader 정리 (https://ojt90902.tistory.com/784)
