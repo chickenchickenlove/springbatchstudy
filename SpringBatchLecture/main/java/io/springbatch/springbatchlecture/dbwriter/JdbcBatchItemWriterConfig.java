@@ -25,7 +25,7 @@ import javax.persistence.EntityManagerFactory;
 import javax.sql.DataSource;
 import java.util.Locale;
 
-@Configuration
+//@Configuration
 @RequiredArgsConstructor
 public class JdbcBatchItemWriterConfig {
 

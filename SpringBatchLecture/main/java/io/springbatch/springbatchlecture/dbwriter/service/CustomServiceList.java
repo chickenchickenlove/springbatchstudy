@@ -4,7 +4,7 @@ import io.springbatch.springbatchlecture.dbitemreader.Customer;
 
 import java.time.LocalDate;
 
-public class CustomServiceList {
+public class CustomServiceList<T> {
 
     public Customer joinMember() {
         Customer customer = new Customer();
@@ -14,5 +14,7 @@ public class CustomServiceList {
         return customer;
     }
 
-
+    public void writeMember(T item) {
+        System.out.println("item = " + item);
+    }
 }

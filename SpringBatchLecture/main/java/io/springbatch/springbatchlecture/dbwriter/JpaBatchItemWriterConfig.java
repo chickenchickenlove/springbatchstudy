@@ -22,7 +22,7 @@ import org.springframework.context.annotation.Configuration;
 import javax.persistence.EntityManagerFactory;
 import javax.sql.DataSource;
 
-@Configuration
+//@Configuration
 @RequiredArgsConstructor
 public class JpaBatchItemWriterConfig {
 
