@@ -85,3 +85,4 @@
 ## 22.03.13
 + (정리) 스프링 배치 JpaCursorItemReader 정리 (https://ojt90902.tistory.com/784)
 + (정리) 스프링 배치 JdbcPagingItemReader 정리 (https://ojt90902.tistory.com/785)
++ (정리) 스프링 배치 JpaPagingItemReader 정리 (https://ojt90902.tistory.com/786)
