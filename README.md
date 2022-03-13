@@ -88,3 +88,4 @@
 + (정리) 스프링 배치 JpaPagingItemReader 정리 (https://ojt90902.tistory.com/786)
 + (정리) 스프링 배치 ItemReaderAdapter 정리 (https://ojt90902.tistory.com/787)
 + (정리) 스프링 배치 JpaItemWriter, JdbcBatchItemWriter 정리 (https://ojt90902.tistory.com/788)
++ (정리) 스프링 배치 ItemWriterAdapter 정리 (https://ojt90902.tistory.com/789)
