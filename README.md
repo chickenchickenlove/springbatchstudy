@@ -59,7 +59,7 @@
 + (정리) 스프링 배치 Step 도메인 이해 (https://ojt90902.tistory.com/782)
 
 
-## 22.03.09
+## 22.03.10
 + (강의) 스프링 배치 JdbcCursorItemReader 강의 수강
 + (강의) 스프링 배치 JPaCursorItemReader 강의 수강
 + (강의) 스프링 배치 JdbcPagingItemReader 강의 수강
@@ -79,8 +79,8 @@
 + (강의) 스프링 배치 반복 및 오류 제어 Skip + Retry 아키텍쳐
 + (강의) 스프링 배치 반복 및 오류 제어 AsynItemProcessor / AsyncitemWriter
 
-## 22.03.11
+## 22.03.12
 + (정리) 스프링 배치 JdbcCursorItemReader 정리 (https://ojt90902.tistory.com/783)
 
-## 22.03.12
+## 22.03.13
 + (정리) 스프링 배치 JdbcCursorItemReader 정리 (https://ojt90902.tistory.com/784)
