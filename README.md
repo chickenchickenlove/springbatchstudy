@@ -90,3 +90,6 @@
 + (정리) 스프링 배치 JpaItemWriter, JdbcBatchItemWriter 정리 (https://ojt90902.tistory.com/788)
 + (정리) 스프링 배치 ItemWriterAdapter 정리 (https://ojt90902.tistory.com/789)
 + (정리) 스프링 배치 CompositeItemProcessor, ClassifierCompositeItemProcessor 정리 (https://ojt90902.tistory.com/790)
+
+## 22.03.14
++ (강의) 스프링 배치 Partitioning Step 
