@@ -93,3 +93,6 @@
 
 ## 22.03.14
 + (강의) 스프링 배치 Partitioning Step 
+
+## 22.03.15
++ (강의) 스프링 배치 Partitioning Step2
