@@ -96,3 +96,7 @@
 
 ## 22.03.15
 + (강의) 스프링 배치 Partitioning Step2
+
+
+## 22.03.15
++ (강의) 스프링 배치 JobScope / StepScope
