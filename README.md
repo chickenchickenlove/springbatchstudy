@@ -98,8 +98,12 @@
 + (강의) 스프링 배치 Partitioning Step2
 
 
-## 22.03.15
+## 22.03.16
 + (강의) 스프링 배치 JobScope / StepScope
 + (강의) 스프링 배치 이벤트 리스너
 + (강의) 스프링 배치 테스트
 + (정리) 스프링 배치 테스트(https://ojt90902.tistory.com/792)
+
+
+## 22.03.17
++ (정리) 스프링 배치 Listener (https://ojt90902.tistory.com/793)
