@@ -109,3 +109,7 @@
 + (정리) 스프링 배치 Listener (https://ojt90902.tistory.com/793)
 + (강의) 스프링 배치 JobScope / StepScope 아키텍쳐
 + (강의) 스프링 배치 JobExplorer / JobRegistry / JobOperator
+
+## 22.03.17
++ (정리) 스프링 배치 JobExplorer / JobRegistry / JobOperator (https://ojt90902.tistory.com/795)
+
