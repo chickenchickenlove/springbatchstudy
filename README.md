@@ -110,6 +110,6 @@
 + (강의) 스프링 배치 JobScope / StepScope 아키텍쳐
 + (강의) 스프링 배치 JobExplorer / JobRegistry / JobOperator
 
-## 22.03.17
+## 22.03.18
 + (정리) 스프링 배치 JobExplorer / JobRegistry / JobOperator (https://ojt90902.tistory.com/795)
 + (정리) 스프링 배치 Partition Step (https://ojt90902.tistory.com/796)
