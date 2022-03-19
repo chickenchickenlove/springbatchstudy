@@ -117,3 +117,4 @@
 
 ## 22.03.19
 + (정리) 스프링 배치 Partition Step (https://ojt90902.tistory.com/796)
++ (정리) 스프링 배치 Skip (https://ojt90902.tistory.com/802)
