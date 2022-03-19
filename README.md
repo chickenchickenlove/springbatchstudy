@@ -113,3 +113,7 @@
 ## 22.03.18
 + (정리) 스프링 배치 JobExplorer / JobRegistry / JobOperator (https://ojt90902.tistory.com/795)
 + (정리) 스프링 배치 Partition Step (https://ojt90902.tistory.com/796)
+
+
+## 22.03.19
++ (정리) 스프링 배치 Partition Step (https://ojt90902.tistory.com/796)
