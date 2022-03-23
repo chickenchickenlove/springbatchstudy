@@ -122,3 +122,7 @@
 
 ## 22.03.22
 + (강의) 스프링 배치 SynchronizedItemStreamReader
+
+
+## 22.03.23
++ (정리) 스프링 배치 SynchronizedItemStreamReader(https://ojt90902.tistory.com/805)
