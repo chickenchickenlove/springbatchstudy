@@ -130,3 +130,4 @@
 
 ## 22.03.24
 + (강의) 스프링 배치 Multi-Thread Step 
++ (정리) 스프링 배치 Multi-Thread Step  (https://ojt90902.tistory.com/806)
